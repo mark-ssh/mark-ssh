@@ -28,8 +28,8 @@
 <div align="left">
 
 
-### :woman_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+### :woman_technologist: About Me : I am an enthusiast Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: I’m currently learning and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
